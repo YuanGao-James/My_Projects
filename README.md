@@ -11,3 +11,17 @@ The code of my previous projects
 3) E-Cigarette_Smoke_Pipes_Detection
    This a project to detect the categories of flaws when producing e-cigarette smoke pipes, working as an auxiliary tool for quality inspection. It is a multi-model combining Computer Vision techniques and time series analysis, because the camera cannot catch the information inside the product. To deal with is problem, we collect other forms of data.
 
+4) Flask
+   This is a project to establish a full stack, to do a real-time anomaly detection of factory production. The cameras capture the images of pruduct and upload them on the website, while the back end computers check them with neural networks and inform the workers.
+
+5) GANomaly
+   This is a project to design a GAN to do the anomaly detection. We tried our own data on the famous model GANomaly.
+
+6) Hand_Seg
+   This is a project in AICV LAB of BU. The dataset is a bunch of X-Ray images of hands, our goal is to detect the position of hand joints, segment the bones, measure the inclination angle of joints, and estimate the joint space width which is strongly realated to hand osteoarthritis.
+
+7) Path_Signature
+   This is a project to make predictions from stack data, which is in the form of time series. We create a neural network model for the data, adding a transformation to map the data into a feature space, and figure out the relationship through it.
+
+8) PolyimideFilm Classification
+   This is a anomaly detection project, to specify the flaws on the polyimide film.
